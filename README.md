@@ -28,7 +28,7 @@ I am an information technology student major in web and mobile technologies deve
 
 I am also a [DOST Scholar](https://www.dost.gov.ph/transparency/about-dost/desired-outcomes/23-announcements/3558-scholarship-announcement.html). I took satisfaction in creating softwares that have science-related applications. 
 
-👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/jun-jun-zaragosa-b585992a1/) or email me at junjunzaragosa2309 (at) gmail (dot) com !
+👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/jun-jun-zaragosa-b585992a1/) or email me at [junjunzaragosa2309@gmail.com](junjunzaragosa2309@gmail.com)
 
 ### 👩‍💻 More about me
 

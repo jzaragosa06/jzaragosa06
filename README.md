@@ -28,13 +28,14 @@ I am an information technology student major in web and mobile technologies deve
 
 I am also a [DOST Scholar](https://www.dost.gov.ph/transparency/about-dost/desired-outcomes/23-announcements/3558-scholarship-announcement.html). I took satisfaction in creating softwares that have science-related applications. 
 
-👯 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/jun-jun-zaragosa-b585992a1/) or email me at [junjunzaragosa2309@gmail.com](junjunzaragosa2309@gmail.com)
+I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/jun-jun-zaragosa-b585992a1/) or email me at [junjunzaragosa2309@gmail.com](junjunzaragosa2309@gmail.com)
 
 ### 👩‍💻 More about me
 
 I write blogs relating to the software projects that i am working on or machine learning topics that interest me. 
 
 ⚡ Read my recent posts about:
+- [Finding Similar Protein Sequences with BLAST in Python](https://medium.com/@junjunzaragosa2309/finding-similar-protein-sequences-with-blast-in-python-da7c383cb9ff)
 - [Sentiment Analyzer: Natural Language Processing Web Application](https://medium.com/@junjunzaragosa2309)
 - [Stocks & Market Index Correlation Analysis](https://medium.com/@junjunzaragosa2309/stocks-market-index-correlation-analysis-530e81f33aba)
 - [Analysis of Philippine Stock Exchange Index’s (PSEi) Performance Over the Year Using Python](https://medium.com/@junjunzaragosa2309/philippine-stock-exchange-index-analysis-of-pseis-performance-over-the-year-using-python-b4293dd22a96)

@@ -35,7 +35,7 @@ I'm always looking to collaborate on exciting projects and ideas, so please feel
 📓 I write blogs relating to the software projects that i am working on or machine learning topics that interest me. 
 
 ⚡ Read my recent posts about:
-- [Hacked! What We Can Learn from the Biggest Corporate Breaches in 2023][https://medium.com/@junjunzaragosa2309/hacked-what-we-can-learn-from-the-biggest-corporate-breaches-in-2023-78e66c558209]
+- [Hacked! What We Can Learn from the Biggest Corporate Breaches in 2023](https://medium.com/@junjunzaragosa2309/hacked-what-we-can-learn-from-the-biggest-corporate-breaches-in-2023-78e66c558209)
 - [Finding Similar Protein Sequences with BLAST in Python](https://medium.com/@junjunzaragosa2309/finding-similar-protein-sequences-with-blast-in-python-da7c383cb9ff)
 - [Sentiment Analyzer: Natural Language Processing Web Application](https://medium.com/@junjunzaragosa2309)
 - [Stocks & Market Index Correlation Analysis](https://medium.com/@junjunzaragosa2309/stocks-market-index-correlation-analysis-530e81f33aba)

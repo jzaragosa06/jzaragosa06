@@ -35,6 +35,7 @@ I'm always looking to collaborate on exciting projects and ideas, so please feel
 📓 I write blogs relating to the software projects that i am working on or machine learning topics that interest me. 
 
 ⚡ Read my posts about:
+- [Extracting Climatic Historical Data from Google Earth Engine using Python API for a Specific Land Area](https://medium.com/@junjunzaragosa2309/extracting-climatic-historical-data-from-google-earth-engine-using-python-api-for-a-specific-land-f2dc3b350cd7)
 - [Using LLM to Generate Data for D3.js Force Directed Graph (FDG)](https://medium.com/@junjunzaragosa2309/using-llm-to-generate-data-for-d3-js-force-directed-graph-c490382d1172)
 - [Naïve Approach to Combining Time Series Data](https://medium.com/@junjunzaragosa2309/na%C3%AFve-approach-to-combining-time-series-data-c7cfbbf070a3)
 - [Hacked! What We Can Learn from the Biggest Corporate Breaches in 2023](https://medium.com/@junjunzaragosa2309/hacked-what-we-can-learn-from-the-biggest-corporate-breaches-in-2023-78e66c558209)

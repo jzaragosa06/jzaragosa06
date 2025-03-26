@@ -46,5 +46,7 @@ I'm always looking to collaborate on exciting projects and ideas, so please feel
 - [Predicting Compresive Strenght of Concrete Using Machine Learning](https://medium.com/@junjunzaragosa2309/predicting-compresive-strenght-of-concrete-using-machine-learning-dfa5ebb4dc4e)
 - [Using Large Language Model to Provide Context-Specific Explanation to Time Series Forecast](https://medium.com/@junjunzaragosa2309/using-large-language-model-to-provide-context-specific-explanation-to-time-series-forecast-69a701abb40a)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jzaragosa06&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 

@@ -35,6 +35,7 @@ I'm always looking to collaborate on exciting projects and ideas, so please feel
 📓 I write blogs relating to the software projects that i am working on or machine learning topics that interest me. 
 
 ⚡ Read my posts about:
+- [Using Google Earth Engine to Find Barrier Against Wind Terrain using Wind Direction and Elevation](https://medium.com/@junjunzaragosa2309/using-google-earth-engine-to-find-barrier-against-wind-terrain-using-wind-direction-and-elevation-3c5b9fb45ad2)
 - [Extracting Climatic Historical Data from Google Earth Engine using Python API for a Specific Land Area](https://medium.com/@junjunzaragosa2309/extracting-climatic-historical-data-from-google-earth-engine-using-python-api-for-a-specific-land-f2dc3b350cd7)
 - [Using LLM to Generate Data for D3.js Force Directed Graph (FDG)](https://medium.com/@junjunzaragosa2309/using-llm-to-generate-data-for-d3-js-force-directed-graph-c490382d1172)
 - [Naïve Approach to Combining Time Series Data](https://medium.com/@junjunzaragosa2309/na%C3%AFve-approach-to-combining-time-series-data-c7cfbbf070a3)
@@ -46,7 +47,11 @@ I'm always looking to collaborate on exciting projects and ideas, so please feel
 - [Predicting Compresive Strenght of Concrete Using Machine Learning](https://medium.com/@junjunzaragosa2309/predicting-compresive-strenght-of-concrete-using-machine-learning-dfa5ebb4dc4e)
 - [Using Large Language Model to Provide Context-Specific Explanation to Time Series Forecast](https://medium.com/@junjunzaragosa2309/using-large-language-model-to-provide-context-specific-explanation-to-time-series-forecast-69a701abb40a)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jzaragosa06&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jzaragosa06&hide=stars&count_private=true&show_icons=true&theme=dark" alt="GitHub stats" />
+  </a>
+</div>
 
 
 

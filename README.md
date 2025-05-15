@@ -51,11 +51,22 @@ I'm always looking to collaborate on exciting projects and ideas, so please feel
 - [Predicting Compresive Strenght of Concrete Using Machine Learning](https://medium.com/@junjunzaragosa2309/predicting-compresive-strenght-of-concrete-using-machine-learning-dfa5ebb4dc4e)
 - [Using Large Language Model to Provide Context-Specific Explanation to Time Series Forecast](https://medium.com/@junjunzaragosa2309/using-large-language-model-to-provide-context-specific-explanation-to-time-series-forecast-69a701abb40a)
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=jzaragosa06&hide=stars&count_private=true&show_icons=true&theme=dark" alt="GitHub stats" />
-  </a>
-</div>
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jzaragosa06&show_icons=true&theme=orange" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jzaragosa06&theme=orange" alt="GitHub Streak" />
+</p>
+
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzaragosa06&layout=compact&theme=orange" alt="Top Languages" />
+</p>
+-->
+
 
 
 

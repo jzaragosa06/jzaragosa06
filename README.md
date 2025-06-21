@@ -57,10 +57,6 @@ I'm always looking to collaborate on exciting projects and ideas, so please feel
   <img src="https://github-readme-stats.vercel.app/api?username=jzaragosa06&show_icons=true&theme=orange" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jzaragosa06&theme=orange" alt="GitHub Streak" />
-</p>
-
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzaragosa06&layout=compact&theme=orange" alt="Top Languages" />

@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a> 
 
-   <a href="https://portfolio-v1-seven-puce.vercel.app/#/works">
+   <a href="https://jun-zaragosa.vercel.app">
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Medium Badge"/>
   </a> 
 </div>

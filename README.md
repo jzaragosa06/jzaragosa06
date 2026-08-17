@@ -7,9 +7,6 @@
   <a href="https://www.linkedin.com/in/jun-jun-zaragosa-b585992a1/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
   <a href="https://medium.com/@junjunzaragosa2309">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a> 
@@ -21,24 +18,25 @@
 
 ### 👋 Hi there! I'm Jun
 
-I am an information technology student major in web and mobile technologies development. I also have a strong passion in data analysis and data science. Among my notable projects in data analysis is an [automated time series forecasting](https://medium.com/@junjunzaragosa2309/using-large-language-model-to-provide-context-specific-explanation-to-time-series-forecast-69a701abb40a), which incorporates LLM to provide context-specific explanations for the results and built using the Laravel framework. In data science, my notable project includes a [sentiment analyzer](https://medium.com/@junjunzaragosa2309/sentiment-analyzer-natural-language-processing-web-application-fa0ea89f5825), a web application built using Streamlit framework. I have a strong understanding of the fundamentals of `C++`, `Java`, and `Java`. I use `Python` extensibly to work on data projects. More importantly, I am committed to making meaningful contributions to our world.
+I am a software engineer, with strong passion in creating useful system that solves painpoints of users. I have a strong understanding of of `Typescript`, `Javascript`, `Node.js`, `React`,  and `Python`. I use `Typecript` extensibly on my work. More importantly, I am committed to making meaningful contributions to our world.
 
-🔭 I'm currently working on:
-- Improved version of Automated time series forecasting
-    - Forecast on either univariate or multivariate time series data.
-    - Analyze time series data in terms of its trend and seasonality patterns.
-    - Add a collaborative feature to allow different users to work on the same forecasting project. 
+I am also a [DOST Scholar](https://www.dost.gov.ph/transparency/about-dost/desired-outcomes/23-announcements/3558-scholarship-announcement.html). I took satisfaction in creating softwares that solves and provide value to users. 
 
+### Currently Exploring
 
-🧑‍🔬 I am also a [DOST Scholar](https://www.dost.gov.ph/transparency/about-dost/desired-outcomes/23-announcements/3558-scholarship-announcement.html). I took satisfaction in creating softwares that have science-related applications. 
+I’m currently exploring **RAG (Retrieval-Augmented Generation)** and building a simple, reusable RAG system for document-based knowledge sources.
+
+- **CLI support** for easier usage and automation
+- **Multiple vector stores** for flexible storage options
+- **Batch/periodic embedding** for new documents and data
+- **Reusable document pipelines** that can be adapted across different documents and use cases
 
 I'm always looking to collaborate on exciting projects and ideas, so please feel free to reach out over [LinkedIn](https://www.linkedin.com/in/jun-jun-zaragosa-b585992a1/) or email me at [junjunzaragosa2309@gmail.com](junjunzaragosa2309@gmail.com)
 
-### 👨‍💻 More about me
+### More about me
+I write blogs relating to the software projects that i am working on or machine learning topics that interest me. 
 
-📓 I write blogs relating to the software projects that i am working on or machine learning topics that interest me. 
-
-⚡ Read my posts about:
+**Read my posts about**:
 - [Using Google Earth Engine to Find Barrier Against Wind Terrain using Wind Direction and Elevation](https://medium.com/@junjunzaragosa2309/using-google-earth-engine-to-find-barrier-against-wind-terrain-using-wind-direction-and-elevation-3c5b9fb45ad2)
 - [Extracting Climatic Historical Data from Google Earth Engine using Python API for a Specific Land Area](https://medium.com/@junjunzaragosa2309/extracting-climatic-historical-data-from-google-earth-engine-using-python-api-for-a-specific-land-f2dc3b350cd7)
 - [Using LLM to Generate Data for D3.js Force Directed Graph (FDG)](https://medium.com/@junjunzaragosa2309/using-llm-to-generate-data-for-d3-js-force-directed-graph-c490382d1172)
@@ -51,17 +49,6 @@ I'm always looking to collaborate on exciting projects and ideas, so please feel
 - [Predicting Compresive Strenght of Concrete Using Machine Learning](https://medium.com/@junjunzaragosa2309/predicting-compresive-strenght-of-concrete-using-machine-learning-dfa5ebb4dc4e)
 - [Using Large Language Model to Provide Context-Specific Explanation to Time Series Forecast](https://medium.com/@junjunzaragosa2309/using-large-language-model-to-provide-context-specific-explanation-to-time-series-forecast-69a701abb40a)
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jzaragosa06&show_icons=true&theme=orange" alt="GitHub Stats" />
-</p>
-
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jzaragosa06&layout=compact&theme=orange" alt="Top Languages" />
-</p>
--->
 
 
 
